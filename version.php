@@ -1,7 +1,7 @@
 <?php
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->component = 'local_axcoursemanager2';
+$plugin->component = 'local_axreactbaseplugin';
 $plugin->version = 2020122400;
 $plugin->release = '1.0';
 $plugin->requires = 2012112900;
